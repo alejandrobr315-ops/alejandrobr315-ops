@@ -1,1 +1,1 @@
-I am on a 365-day journey to become a Backend Developer. Here you will find my progress week by week.
+I am on a path to become a Backend Developer. Here you will find my progress week by week.
